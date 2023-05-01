@@ -9,7 +9,7 @@ import Projects from "./Pages/Projects";
 import Home from"./Pages/Home";
 import Footer from "./Components/Footer";
 import ProjectDisplay from "./Pages/ProjectDisplay";
-import { Route, BrowserRouter, Routes } from "react-router-dom"
+import { Route, Routes } from "react-router-dom"
 import Contact from './Components/Contact';
 
 function App() {
