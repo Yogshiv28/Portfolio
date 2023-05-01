@@ -1,0 +1,13 @@
+.cta {
+    margin-top: 2.5rem;
+    display: flex;
+    gap: 1.2rem;
+    justify-content: center;
+   color: white;
+   margin-top: 1.7rem;
+    gap: 1rem;
+  }
+
+.cta a{
+    color: white;
+}
