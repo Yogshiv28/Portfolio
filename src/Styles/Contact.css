@@ -1,7 +1,7 @@
 #contact{
     text-align: center;
     color:#fff;
-    background-color: #242B2E;
+    background-color: #03203C;
 }
 .container.contact__container {
     width: 60%;
@@ -9,7 +9,7 @@
     grid-template-columns: 30% 58%;
     gap: 12%;
     margin: 100px;
-    background-color: #242B2E;
+    background-color: #03203C;
    
     
   }
@@ -73,7 +73,7 @@
     width: 100%;
     padding: 1.5rem;
     border-radius: 0.5rem;
-    background-color:  #242B2E;;
+    background-color:  #03203C;;
    
     border: 2px solid var(--color-primary-variant);
     resize: none;
@@ -83,7 +83,7 @@
   
   
 .btn{
-    background-color: #242B2E;
+    background-color: #03203C;
     border-radius: 0.5rem;
     border-color: 2px solid var(--color-primary-variant);
     
